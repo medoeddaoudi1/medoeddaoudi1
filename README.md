@@ -24,7 +24,7 @@
 I am a Early Developer from Morocco
  - 🌱 I’m currently learning EJS
 - 💬 Ask me about anything [here](https://discord.gg/fFgRKZ34ZN)
-- 📫 Add Me On Discord? !𝖆𝖗𝖒𝖆-⁰ MedoEddaoudi#8936
+- 📫 Add Me On Discord? @MedoEddaoudi#8936
 
 **Languages and Tools:** &nbsp;
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
